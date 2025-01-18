@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|c:\\users\\chito\\onedrive\\escritorio\\final project ids (2)\\final project ids\\library project - ids340\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|solutionrelative:library project - ids340\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\library project - ids340\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|solutionrelative:library project - ids340\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\library project - ids340\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|solutionrelative:library project - ids340\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\library project - ids340\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|solutionrelative:library project - ids340\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\library project - ids340\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F937B4D9-02E6-41BC-B35A-47EA2E805585}|Library project - IDS340\\Library.Presentation.csproj|solutionrelative:library project - ids340\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmBook.cs",
+              "RelativeDocumentMoniker": "Library project - IDS340\\FrmBook.cs",
+              "ToolTip": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmBook.cs [Design]",
+              "RelativeToolTip": "Library project - IDS340\\FrmBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:14:23.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBook.cs",
+              "DocumentMoniker": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmBook.cs",
+              "RelativeDocumentMoniker": "Library project - IDS340\\FrmBook.cs",
+              "ToolTip": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmBook.cs",
+              "RelativeToolTip": "Library project - IDS340\\FrmBook.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:39:14.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmReservas.cs",
+              "DocumentMoniker": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmReservas.cs",
+              "RelativeDocumentMoniker": "Library project - IDS340\\FrmReservas.cs",
+              "ToolTip": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmReservas.cs",
+              "RelativeToolTip": "Library project - IDS340\\FrmReservas.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:39:21.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Library project - IDS340\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmUsuarios.cs",
+              "RelativeToolTip": "Library project - IDS340\\FrmUsuarios.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:48:35.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmReservas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmReservas.cs",
+              "RelativeDocumentMoniker": "Library project - IDS340\\FrmReservas.cs",
+              "ToolTip": "C:\\Users\\Chito\\OneDrive\\Escritorio\\FINAL PROJECT IDS (2)\\FINAL PROJECT IDS\\Library project - IDS340\\FrmReservas.cs [Design]",
+              "RelativeToolTip": "Library project - IDS340\\FrmReservas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:14:19.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

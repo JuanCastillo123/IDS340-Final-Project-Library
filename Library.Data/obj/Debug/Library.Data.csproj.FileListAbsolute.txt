@@ -1,0 +1,16 @@
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library.Data\bin\Debug\LibraryDB.mdf
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library.Data\bin\Debug\LibraryDB_log.ldf
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library.Data\bin\Debug\Library.Data.dll
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library.Data\bin\Debug\Library.Data.pdb
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library.Data\obj\Debug\Library.Data.csproj.AssemblyReference.cache
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library.Data\obj\Debug\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library.Data\obj\Debug\Library.Data.dll
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library.Data\obj\Debug\Library.Data.pdb
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library.Data\bin\Debug\LibraryDB.mdf
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library.Data\bin\Debug\LibraryDB_log.ldf
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library.Data\bin\Debug\Library.Data.dll
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library.Data\bin\Debug\Library.Data.pdb
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library.Data\obj\Debug\Library.Data.csproj.AssemblyReference.cache
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library.Data\obj\Debug\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library.Data\obj\Debug\Library.Data.dll
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library.Data\obj\Debug\Library.Data.pdb

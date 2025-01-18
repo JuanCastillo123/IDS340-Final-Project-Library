@@ -1,0 +1,44 @@
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.exe.config
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.exe
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.pdb
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library.Presentation.csproj.AssemblyReference.cache
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmPrincipal.resources
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmBook.resources
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.Properties.Resources.resources
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library.Presentation.csproj.GenerateResource.cache
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.exe
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.pdb
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\LibraryDB.mdf
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\LibraryDB_log.ldf
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library.Data.dll
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library.Entity.dll
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library.Data.pdb
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library.Entity.pdb
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library..44034D7B.Up2Date
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmEliminar.resources
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmElimUsuario.resources
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmUsuarios.resources
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\LibraryDB.mdf
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\LibraryDB_log.ldf
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.exe.config
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.exe
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.pdb
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library.Data.dll
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library.Entity.dll
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library.Data.pdb
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library.Entity.pdb
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library.Presentation.csproj.AssemblyReference.cache
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmElimUsuario.resources
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmPrincipal.resources
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmBook.resources
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmEliminar.resources
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmUsuarios.resources
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.Properties.Resources.resources
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library.Presentation.csproj.GenerateResource.cache
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library..44034D7B.Up2Date
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.exe
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.pdb
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmReservas.resources
+C:\Users\Chito\OneDrive\Escritorio\FINAL PROJECT IDS (2)\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.FrmElimReservas.resources

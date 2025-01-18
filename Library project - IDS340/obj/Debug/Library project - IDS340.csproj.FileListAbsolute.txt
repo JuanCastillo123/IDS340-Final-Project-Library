@@ -1,0 +1,10 @@
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.exe.config
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.exe
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\bin\Debug\Library project - IDS340.pdb
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.csproj.AssemblyReference.cache
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.Properties.Resources.resources
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.csproj.GenerateResource.cache
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.csproj.CoreCompileInputs.cache
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.exe
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library project - IDS340.pdb
+C:\Users\1122881\Desktop\FINAL PROJECT IDS\Library project - IDS340\obj\Debug\Library_project___IDS340.Form1.resources
